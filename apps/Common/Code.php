@@ -6,6 +6,10 @@
  */
 namespace Common;
 
+/**
+ * Class Code
+ * @desc 用户自定义返回错误码与对应解释信息
+ */
 class Code
 {
     const ERR_CODE_INVALID_PARAM = 401;
